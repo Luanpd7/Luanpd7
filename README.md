@@ -28,10 +28,12 @@
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![NetBeans](https://img.shields.io/badge/netbeans-E44C30?style=for-the-badge&logo=netbeans&logoColor=white)&nbsp;
 ![RAD Studio](https://img.shields.io/badge/RAD%20Studio-%23E5405F?style=for-the-badge&logo=radstudio&logoColor=white)&nbsp;
-![Bizagi](https://img.shields.io/badge/bizagi%20Modeler-%23FF6600.svg?&style=for-the-badge&logo=bizagimodeler&logoColor=white)&nbsp;
-![Static Badge](https://img.shields.io/badge/draw.io-%23FF6600.svg?&style=for-the-badge&logo=draw.io&logoColor=white)&nbsp;
-
+![Draw.io](https://img.shields.io/badge/draw.io-%23FF6600.svg?&style=for-the-badge&logo=draw.io&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+
+## Contacts:
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 
 
 
