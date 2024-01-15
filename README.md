@@ -11,7 +11,7 @@
 ## My Skills
 #### Studying in this moment:
 ![Dart](https://img.shields.io/badge/dart-1572B6?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
-![Flutter](https://img.shields.io/badge/flutter-2272B6?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
+![Flutter](https://img.shields.io/badge/flutter-1572D9?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
 
 
 
