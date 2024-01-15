@@ -51,8 +51,8 @@
 
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#000080&height=120&section=footer"/>
-3F0D87
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3F0D87&height=120&section=footer"/>
+
 
 
 
