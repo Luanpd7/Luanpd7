@@ -5,8 +5,10 @@
 
 <div>
  <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Luanpd7&theme=radical&mode=weekly" />
+  
+[default_repocard]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default_repocard
 [transparent]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Luanpd7&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Luanpd7&show_icons=true&theme=radical&layout=compact" />
  </div>
 
