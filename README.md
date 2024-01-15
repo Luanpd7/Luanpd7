@@ -1,4 +1,12 @@
-
+ themes = {
+ transparent: {
+    title_color: "006AFF",
+    icon_color: "0579C3",
+    text_color: "417E87",
+    bg_color: "ffffff00",
+  },
+  }
+  
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/rafaelalexandrino/rafaelalexandrino/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 &nbsp;&nbsp;&nbsp;
 
