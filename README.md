@@ -10,7 +10,7 @@
 
 ## My Skills
 #### Studying in this moment:
-![Dart](https://img.shields.io/badge/dart-14354C?style=for-the-badge&logo=dart&logoColor=green)&nbsp;
+![Dart](https://img.shields.io/badge/dart-14354C?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
 ![Flutter](https://img.shields.io/badge/flutter-14354C?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
 
 
