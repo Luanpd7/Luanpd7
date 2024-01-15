@@ -12,11 +12,9 @@
 
 ## My Skills
 
-
-
-
-#### Studying in this moment:
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+#### Studying in this moment:
+
 ![Dart](https://img.shields.io/badge/dart-1572B6?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
 ![Flutter](https://img.shields.io/badge/flutter-1572D9?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
 
