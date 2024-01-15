@@ -26,7 +26,7 @@
 #### Work Tools:
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![NetBeans](https://img.shields.io/badge/netbeans-E44C30?style=for-the-badge&logo=netbeans&logoColor=white)&nbsp;
-![RAD Studio](https://img.shields.io/badge/RAD%20Studio-%23E4405F?style=for-the-badge&logo=netbeans&logoColor=white)&nbsp;
+![RAD Studio](https://img.shields.io/badge/RAD%20Studio-%23E5405F?style=for-the-badge&logo=netbeans&logoColor=white)&nbsp;
 
 
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
