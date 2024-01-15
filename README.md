@@ -29,6 +29,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Delphi](https://img.shields.io/badge/Delphi-4A154B?style=for-the-badge&logo=delphi&logoColor=white)&nbsp;
+
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 #### Databases:
@@ -41,6 +42,7 @@
 ![NetBeans](https://img.shields.io/badge/netbeans-E44C30?style=for-the-badge&logo=netbeans&logoColor=white)&nbsp;
 ![RAD Studio](https://img.shields.io/badge/RAD%20Studio-%23E5405F?style=for-the-badge&logo=radstudio&logoColor=white)&nbsp;
 ![Draw.io](https://img.shields.io/badge/draw.io-%23FF6600.svg?&style=for-the-badge&logo=draw.io&logoColor=white)&nbsp;
+
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 
 ## Contacts:
