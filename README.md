@@ -14,7 +14,7 @@
 ![Flutter](https://img.shields.io/badge/flutter-1572D9?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
 
 #### Databases:
-![Static Badge](https://img.shields.io/badge/mysql-316192?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![MySql](https://img.shields.io/badge/mysql-316192?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 
 
