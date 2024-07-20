@@ -32,6 +32,7 @@
 #### Databases:
 
 ![MySql](https://img.shields.io/badge/mysql-316192?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![SqFlite](https://img.shields.io/badge/netbeans-E44C30?style=for-the-badge&logo=netbeans&logoColor=white)&nbsp;
 
 #### Work Tools:
 
