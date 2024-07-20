@@ -40,7 +40,8 @@
 ![NetBeans](https://img.shields.io/badge/netbeans-E44C30?style=for-the-badge&logo=netbeans&logoColor=white)&nbsp;
 ![RAD Studio](https://img.shields.io/badge/RAD%20Studio-%23E5405F?style=for-the-badge&logo=radstudio&logoColor=white)&nbsp;
 ![Draw.io](https://img.shields.io/badge/draw.io-%23FF6600.svg?&style=for-the-badge&logo=draw.io&logoColor=white)&nbsp;
-
+![SqFlite](https://img.shields.io/badge/sqflite-4A154B?style=for-the-badge&logo=netbeans&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-%230077B5?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 
 ## Contacts:
