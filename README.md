@@ -57,6 +57,52 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3F0D87&height=120&section=footer"/>
 
 
+class ListItems extends StatelessWidget {
+  const ListItems({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+   var state =  Provider.of<TextFieldState>(context, listen: false);
+
+state.getItems();
+    return Container (
+      width: 500,
+      height: 300,
+      decoration: BoxDecoration(
+          border: Border.all(color: Colors.black, width: 1),
+          borderRadius: BorderRadius.circular(8.0)
+      ),
+      child: SingleChildScrollView(
+        scrollDirection: Axis.vertical,
+        child: Column(
+              children: state.items.toList(),
+        ),
+      ),
+    );
+  }
+}
+
+
+
+
+
+
+
+Widget item(){
+  return Padding(
+    padding: const EdgeInsets.all(8.0),
+    child: Container(
+      width: double.infinity,
+      height: 50,
+      decoration: BoxDecoration(
+        border: Border.all(color: Colors.blue.withOpacity(0.5), width: 1),
+        color: Colors.grey.withOpacity(0.2),
+        borderRadius: BorderRadius.circular(8.0)
+      ),
+      child: Center(child: Text("51 - ANNE")),
+    ),
+  );
+}
 
 
 
