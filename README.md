@@ -13,21 +13,12 @@
 ## My Skills
 
 
-#### Studying in this moment:
+#### Language:
 
-![Dart](https://img.shields.io/badge/dart-1572B6?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
 ![Flutter](https://img.shields.io/badge/flutter-1572D9?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-#### Other Languages:
-
-![Java](https://img.shields.io/badge/java-A0522D?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Delphi](https://img.shields.io/badge/Delphi-4A154B?style=for-the-badge&logo=delphi&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 #### Databases:
 
@@ -38,7 +29,6 @@
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![NetBeans](https://img.shields.io/badge/netbeans-E44C30?style=for-the-badge&logo=netbeans&logoColor=white)&nbsp;
-![RAD Studio](https://img.shields.io/badge/RAD%20Studio-%23E5405F?style=for-the-badge&logo=radstudio&logoColor=white)&nbsp;
 ![Draw.io](https://img.shields.io/badge/draw.io-%23FF6600.svg?&style=for-the-badge&logo=draw.io&logoColor=white)&nbsp;
 ![SqFlite](https://img.shields.io/badge/sqflite-4A154B?style=for-the-badge&logo=netbeans&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-%230077B5?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
@@ -47,7 +37,6 @@
 ## Contacts:
 
 <div> 
-<a href="https://www.instagram.com/luuann.pereira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 <a href="https://www.linkedin.com/in/luan-pereira-dias-a327a0253/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank> 
 <a href = "mailto:contato.luan13bnu@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>&nbsp;&nbsp;
@@ -56,50 +45,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3F0D87&height=120&section=footer"/>
 
-
-class ListItems extends StatelessWidget {
-  const ListItems({super.key});
-
-  @override
-  Widget build(BuildContext context) {
-   var state =  Provider.of<TextFieldState>(context, listen: false);
-
-state.getItems();
-    return Container (
-      width: 500,
-      height: 300,
-      decoration: BoxDecoration(
-          border: Border.all(color: Colors.black, width: 1),
-          borderRadius: BorderRadius.circular(8.0)
-      ),
-      child: SingleChildScrollView(
-        scrollDirection: Axis.vertical,
-        child: Column(
-              children: state.items.toList(),
-        ),
-      ),
-    );
-  }
-}
-
-
-
-
-
-
-
-Widget item(){
-  return Padding(
-    padding: const EdgeInsets.all(8.0),
-    child: Container(
-      width: double.infinity,
-      height: 50,
-      decoration: BoxDecoration(
-        border: Border.all(color: Colors.blue.withOpacity(0.5), width: 1),
-        color: Colors.grey.withOpacity(0.2),
-        borderRadius: BorderRadius.circular(8.0)
-      ),
-      child: Center(child: Text("51 - ANNE")),
     ),
   );
 }
