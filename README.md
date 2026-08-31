@@ -43,9 +43,7 @@ experiência com computação em nuvem.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white) 
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge\&logoColor=white) 
 ![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge\&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white) 
-![Clean%20Architecture](https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge\&logoColor=white) 
-![REST%20API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge\&logoColor=white) 
+
 
 ## 📂 Projetos
 
