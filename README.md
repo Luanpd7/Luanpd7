@@ -52,6 +52,15 @@ experiência com computação em nuvem.
 Aplicação desenvolvida com Flutter, Go e PostgreSQL para gerenciamento
 e acompanhamento de investimentos e patrimônio financeiro.
 
+- [Front-end — Flutter](https://github.com/Luanpd7/investment-control-frontend)
+- [Back-end — Go](https://github.com/Luanpd7/investment-control-backend-)
+
+### 💰 Simulador de aposentadoria
+
+Aplicação desenvolvida com Flutter, Go e PostgreSQL para simulação
+de aposentadoria, simulando aportes até a aposentadoria aplicando conceito 
+do mercado financeiro.
+
 - [Front-end — Flutter](https://github.com/Luanpd7/simulator-financial-independence-frontend)
 - [Back-end — Go](https://github.com/Luanpd7/simulator-financial-independence)
 
