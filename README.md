@@ -67,4 +67,3 @@ do mercado financeiro.
 ## 📫 Contato
 
 - LinkedIn: [Luan Pereira](https://www.linkedin.com/in/luan-pereira-dias-a327a0253/)
-- GitHub: [Luanpd7](https://github.com/Luanpd7)
